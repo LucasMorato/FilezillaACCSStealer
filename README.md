@@ -1,4 +1,4 @@
-# FilezillaACCSStealer
+# Filezilla "ACCS" Stealer - Red Team
 
 Este script Python captura o arquivo de contas FTP em máquinas comprometidas, com o FileZilla instalado, e envia o arquivo diretamente para um host remoto. O script foi criado para simplificar o roubo de credênciais do Red Team em máquinas infectadas.
 
